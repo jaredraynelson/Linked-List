@@ -10,12 +10,13 @@ class Course():
         self.credit_hour = credit_hr
         self.grade_value = grade
         self.next = None
+        # self.sep = sep
         self.is_instance_check()
 
     def __str__(self):
         '''returns a string representing a single
         # Course as shown in the Program Output section'''
-        return ('CS'+str(self.course_number)+' '+self.course_name+' Grade:' +
+        return ('CS'+str(self.course_number)+' '+self.course_name+': Grade:' +
                 str(self.grade_value)+' Credit Hours: '+str(self.credit_hour))
 
     def number(self):
