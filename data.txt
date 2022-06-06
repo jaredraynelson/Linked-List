@@ -1,5 +1,5 @@
-1400,Introduction to Programming,4,3.6
-1410,C++ Programming,4,2.6
-2810,Computer Architecture,3,3.8
-2420,Introduction to Data Structures,4,3.2
-1030,Introduction to Computers,2,3.2
+120,Programming Essentials,4,3.6
+145,C++ Programming,4,2.6
+280,Computer Hardware Architecture,3,3.8
+240,Intro. to Data Structures,4,3.2
+450,Assemblers,2,3.2
